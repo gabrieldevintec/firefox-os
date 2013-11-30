@@ -1,0 +1,13 @@
+{
+  "name": "App Testee",
+  "description": "Testando manifesto FFOS",
+  "launch_path": "/",
+  "icons": {
+    "128": "icon.png"
+  },
+  "developer": {
+    "name": "DeevinTec",
+    "url": "http://devintec.com"
+  },
+  "default_locale": "en"
+}
